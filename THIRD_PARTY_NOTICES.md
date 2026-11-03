@@ -44,8 +44,3 @@ without a separate license file; all rights belong to its author.
 Tracker modules are decoded with `bass.dll`, © Un4seen Developments
 (<https://www.un4seen.com>). It is **not** distributed with this plugin; the
 plugin uses the copy already loaded by AIMP.
-
-## ZenLib, zlib
-
-The `ZenLib/` (MediaArea.net, zlib-like license) and `zlib/` (zlib license)
-folders keep their original license files. They are not used in the build.
