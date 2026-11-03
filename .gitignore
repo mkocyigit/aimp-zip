@@ -1,0 +1,4 @@
+build/
+build-x64/
+*.user
+.vs/
