@@ -25,3 +25,7 @@ Output: `build-x64\bin\Release\aimp_zip.dll`
 ## Install
 
 Close AIMP and copy the DLL to `C:\Program Files\AIMP\Plugins\aimp_zip\aimp_zip.dll` (or run `install_x64.bat` as administrator). Then start AIMP.
+
+## License
+
+MIT. See [LICENSE](LICENSE) and [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) for bundled components.

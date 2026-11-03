@@ -24,3 +24,7 @@ cmake --build build-x64 --config Release
 ## Kurulum
 
 AIMP'i kapatın ve DLL'i `C:\Program Files\AIMP\Plugins\aimp_zip\aimp_zip.dll` konumuna kopyalayın (ya da `install_x64.bat` dosyasını yönetici olarak çalıştırın). Sonra AIMP'i açın.
+
+## Lisans
+
+MIT. Ayrıntılar için [LICENSE](LICENSE); kullanılan diğer bileşenler için [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
